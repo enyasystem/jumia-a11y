@@ -23,8 +23,6 @@ Audit and rebuild the [Jumia Product Page](https://https://www.jumia.com.ng/sams
 | Layer | Tools |
 |---|---|
 | Frontend | React, TypeScript, Next.js |
-| Backend | Python (Django), PHP, MySQL |
-| Mobile | React Native |
 | Design | Figma (high-contrast UI, accessible palette) |
 | Accessibility | axe DevTools, WAVE, NVDA, ARIA |
 | AI Assist | GitHub Copilot, atomica11y, Claude AI |
