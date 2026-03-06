@@ -28,7 +28,7 @@
 
 ---
 
-## 🚀 Workflow (Do This Every Day)
+##  Workflow (Do This Every Day)
 
 ```bash
 # 1. Pull latest changes from develop before you start work
